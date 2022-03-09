@@ -1,0 +1,53 @@
+ul{
+    font-family: monospace;
+    font-size: 25px;
+}
+
+h1{
+    font-size: 25px;
+}
+
+span{
+    background-color: #DA291C;
+    font-size: 25px;
+    font-family: monospace;
+
+}
+
+div{
+    
+    
+    background-size: 255px;
+}
+
+.imagemDeFundo{
+    width: auto;
+    background-color: #FFC72C;
+    height: 700px;
+}
+
+figure{
+text-align: center;
+height:200px;
+background-color: #FFC72C;
+}
+
+img{
+    height: 580px;
+}
+
+p{
+    text-align: center;
+    font-style: oblique;
+    font-size: 44px;
+    font-weight: bolder;
+    font-family: monospace;
+}
+
+h3{
+    display:none;
+}
+
+body{
+    text-align: left;
+}

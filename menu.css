@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+p{
+    font-family: monospace;
+    font-size: 24px;   
+}
+
+h3{
+    font-family: monospace;
+    font-size: 24px;
+
+}
+
+.imagemDeFundo{
+    width: auto;
+    background-color: #FFC72C;
+    height: 900px;
+}

@@ -1,0 +1,49 @@
+
+
+.imagemDeFundo{
+    width: auto;
+    background-color: #FFC72C;
+    height: 700px;
+}
+
+img{
+    height: 580px;
+}
+
+strong{
+    background-color: #DA291C;
+
+}
+
+h1{
+    font-family: monospace;
+    font-size: 24px;   
+}
+
+h2{
+    font-family: monospace;
+    font-size: 24px;
+
+}
+
+    li{
+        font-family: monospace;
+        font-size: 24px;   
+        
+    }
+
+    body{
+        text-align: center;
+    }
+
+    p{
+        font-family: monospace;
+        font-size: 24px;   
+    }
+
+    span{
+        font-family: monospace;
+        font-size: 24px;   
+    }
+
+    
